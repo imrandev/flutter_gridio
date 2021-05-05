@@ -3,5 +3,5 @@ Simple way to create gridview with customize design radio without using any thir
 
 # Screenshots
 
-<img src="/screenshots/01.png" height="640"/><span>
-<img src="/screenshots/02.png" height="640"/><span>
+<img src="/screenshots/1.png" height="640"/><span>
+<img src="/screenshots/2.png" height="640"/><span>
